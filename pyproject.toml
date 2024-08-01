@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "bulk-message-whatsapp-automate"
+version = "0.1.0"
+description = ""
+authors = ["Marcus Bragion <viniciusbragion@outlook.pt>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
